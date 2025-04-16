@@ -1,0 +1,21 @@
+# Fichiers de Visual Studio
+.vs/
+*.vcxproj.user
+*.suo
+*.user
+*.ipch
+
+# Fichiers de build
+*.obj
+*.exe
+*.ilk
+*.pdb
+*.log
+*.tlog
+*.lastbuildstate
+*.idb
+
+# Répertoires de build
+x64/
+Debug/
+Release/

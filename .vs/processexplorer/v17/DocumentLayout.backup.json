@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\yassi\\source\\repos\\ProcessExp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADE18172-12C3-4026-BB5E-0AFAF64AF08A}|processexplorer\\processexplorer.vcxproj|C:\\Users\\yassi\\source\\repos\\ProcessExp\\processexplorer\\include\\ProcessUtils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ADE18172-12C3-4026-BB5E-0AFAF64AF08A}|processexplorer\\processexplorer.vcxproj|solutionrelative:processexplorer\\include\\ProcessUtils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADE18172-12C3-4026-BB5E-0AFAF64AF08A}|processexplorer\\processexplorer.vcxproj|C:\\Users\\yassi\\source\\repos\\ProcessExp\\processexplorer\\src\\ProcessUtils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ADE18172-12C3-4026-BB5E-0AFAF64AF08A}|processexplorer\\processexplorer.vcxproj|solutionrelative:processexplorer\\src\\ProcessUtils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProcessUtils.cpp",
+              "DocumentMoniker": "C:\\Users\\yassi\\source\\repos\\ProcessExp\\processexplorer\\src\\ProcessUtils.cpp",
+              "RelativeDocumentMoniker": "processexplorer\\src\\ProcessUtils.cpp",
+              "ToolTip": "C:\\Users\\yassi\\source\\repos\\ProcessExp\\processexplorer\\src\\ProcessUtils.cpp",
+              "RelativeToolTip": "processexplorer\\src\\ProcessUtils.cpp",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-14T17:50:05.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProcessUtils.h",
+              "DocumentMoniker": "C:\\Users\\yassi\\source\\repos\\ProcessExp\\processexplorer\\include\\ProcessUtils.h",
+              "RelativeDocumentMoniker": "processexplorer\\include\\ProcessUtils.h",
+              "ToolTip": "C:\\Users\\yassi\\source\\repos\\ProcessExp\\processexplorer\\include\\ProcessUtils.h",
+              "RelativeToolTip": "processexplorer\\include\\ProcessUtils.h",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAwB8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-14T17:24:49.38Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
