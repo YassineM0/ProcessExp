@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "processexplorer\\src\\main.cpp",
               "ToolTip": "C:\\Users\\yassi\\source\\repos\\ProcessExp\\processexplorer\\src\\main.cpp",
               "RelativeToolTip": "processexplorer\\src\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-16T18:13:12.544Z",
               "EditorCaption": ""
@@ -47,8 +47,7 @@
               "RelativeToolTip": "processexplorer\\src\\ProcessUtils.cpp",
               "ViewState": "AgIAAD0AAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-14T17:50:05.839Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-14T17:50:05.839Z"
             },
             {
               "$type": "Document",
@@ -60,8 +59,7 @@
               "RelativeToolTip": "processexplorer\\include\\ProcessUtils.h",
               "ViewState": "AgIAABYAAAAAAAAAAAAYwB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-14T17:24:49.38Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-14T17:24:49.38Z"
             }
           ]
         }
